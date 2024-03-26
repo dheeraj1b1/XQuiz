@@ -14,11 +14,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertIterableEquals;
 
 public class QuizTest {
-
-    // TODO: WARNING!!!
-    //  DO NOT MODIFY ANY FILES IN THE TESTS/ ASSESSMENTS UNLESS ASKED TO.
-    //  Any modifications in this file may result in Assessment failure!
-
+    
     @Test
     @DisplayName("Test for checking the functionality of Quiz constructor if quizName is null")
     public void testQuiz_IfQuizNameIsNull(){

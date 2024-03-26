@@ -13,10 +13,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 @DisplayName("Tests for Question class")
 public class QuestionTest {
 
-    // TODO: WARNING!!!
-    //  DO NOT MODIFY ANY FILES IN THE TESTS/ ASSESSMENTS UNLESS ASKED TO.
-    //  Any modifications in this file may result in Assessment failure!
-
     @Test
     @DisplayName("Test for checking the functionality of Question constructor if the question text is null")
     public void testQuestion_IfQuestionTextIsNull(){
